@@ -1,0 +1,12 @@
+googletrans
+google_trans_new
+deep_translator
+imbalanced-learn
+pyspellchecker
+textblob
+gensim
+tensorflow
+xgboost
+transformers
+scikeras
+pickle
